@@ -6,4 +6,4 @@ We use LightGBM as our main model. This is my [Kaggle profile](https://www.kaggl
 
 **As a co-author, I pulished a [paper](A%20LightGBM%20based%20Default%20Prediction%20Method%20for%20American%20Express.pdf) in IEEE.**
 
-**My main contribute code is [Data Processing](DataProcess.ipynb) and [Modeling](Train.ipynb)**
+**My contribitions of code are [Data Processing](DataProcess.ipynb) and [Modeling](Train.ipynb)**
